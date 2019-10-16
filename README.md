@@ -13,8 +13,7 @@ This extension is more reliable than **Universal Clipboard** between *iOS* and *
 
 Paste the push link of Bark to replace the **url** in **send.sh**
 
-##Credit
+#Credit
 Extension by Malik Wang
 
 Cantact me: <wangyifan@live.hk>
-
