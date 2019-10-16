@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>Send.png</string>
+			<key>Title</key>
+			<string>Send It</string>
+			<key>Shell Script File</key>
+			<string>send.sh</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>wangyifan@live.hk</string>
+			<key>Name</key>
+			<string>Malik Wang</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Send the selected text to mobile phone.</string>
+	<key>Extension Identifier</key>
+	<string>com.wyf.popclip.extension.sendit</string>
+	<key>Extension Image File</key>
+	<string>Send.png</string>
+	<key>Extension Name</key>
+	<string>Send It</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
