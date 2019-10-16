@@ -13,7 +13,9 @@ This extension is more reliable than **Universal Clipboard** between *iOS* and *
 - iOS: **Bark**, download from the App Store.
 - macOS: **PopClip**, <https://pilotmoon.com/popclip/>
 
-Paste the push link of Bark to replace the **url** in **send.sh**
+1. Paste the push link of Bark to replace the **url** in **send.sh**
+
+2. Add suffix **.popclipext** to folder name
 
 # Credit
 Extension by Malik Wang
