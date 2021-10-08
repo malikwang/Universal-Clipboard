@@ -18,6 +18,6 @@ This extension is more reliable than **Universal Clipboard** between *iOS* and *
 2. Add suffix **.popclipext** to folder name
 
 # Credit
-Extension by Malik Wang
+Extension by Malikwang
 
-Cantact me: <wangyifan@live.hk>
+Contact me: <wangyifan@live.hk>
