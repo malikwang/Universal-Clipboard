@@ -1,2 +1,2 @@
-url="https://api2.day.app:4443/yourkey/Send%20Text?copy="
-curl $url$POPCLIP_URLENCODED_TEXT
+url="https://api2.day.app:4443/yourkey/"
+curl $url$POPCLIP_URLENCODED_TEXT?copy=$POPCLIP_URLENCODED_TEXT
